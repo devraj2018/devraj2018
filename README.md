@@ -6,11 +6,13 @@
 
 -🔭 I’m currently working on https://amazon-cclone.netlify.app/
 <br>
--👯 I’m looking to collaborate with other content creators
+
 
 ---
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devraj2018)](https://github.com/devraj2018/github-readme-stats)
 
-
-
-
+<a href="https://github.com/devraj2018">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devraj2018" />
+</a>
+<a href="https://github.com/devraj2018/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=devraj2018" />
+</a>
