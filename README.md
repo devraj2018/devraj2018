@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Devraj</h1>
 <h3 align="center">I'm a Full Stack Developer🇳</h3>
 
-</br>
-</br>
 
 <h2 align="left"> My Leetcode Profile</h2>
 <a href="https://leetcode.com/devrajsingh/" target="blank"><img align="center" src="https://github.com/devraj2018/Programming_Pathshala/blob/main/Cover_Letter.png" alt="https://leetcode.com/devrajsingh/" height="300" width="1150" /></a>
